@@ -1,0 +1,16 @@
+{
+  "name": "ClimateChangeApp",
+  "version": "0.0.1",
+  "description": "Server Environment for ClimateChange app",
+  "dependencies": {
+    "async": "^2.1.2",
+    "bookshelf": "^0.10.2",
+    "csv-parse": "^1.1.7",
+    "express": "^4.10.2",
+    "fs": "0.0.1-security",
+    "googlemaps": "^1.11.1",
+    "knex": "^0.12.6",
+    "mysql": "^2.12.0",
+    "node-mysql": "^0.4.2"
+  }
+}
